@@ -1,0 +1,42 @@
+{
+  "node": {
+    "77a070563b19390865b4d20446486033117e2164": {
+      "workers": {
+        "app/(root)/(home)/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/upcoming/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/previous/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/recordings/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/personal-room/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/(home)/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser",
+        "app/(root)/(home)/upcoming/page": "action-browser",
+        "app/(root)/(home)/previous/page": "action-browser",
+        "app/(root)/(home)/recordings/page": "action-browser",
+        "app/(root)/(home)/personal-room/page": "action-browser"
+      }
+    },
+    "93e61e6727272cf7c8fe891b8b354b875b4c292b": {
+      "workers": {
+        "app/(root)/(home)/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/upcoming/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/previous/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/recordings/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/personal-room/page": "(action-browser)/../../../AppData/Roaming/npm/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRamaz%5C%5COneDrive%5C%5C%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB%5C%5Czoom%5C%5Cactions%5C%5Cstream.actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22tokenProvider%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/(home)/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser",
+        "app/(root)/(home)/upcoming/page": "action-browser",
+        "app/(root)/(home)/previous/page": "action-browser",
+        "app/(root)/(home)/recordings/page": "action-browser",
+        "app/(root)/(home)/personal-room/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "fegVOSMz0ijgEpKnl7Tc7RhJt3Vfh4qXa5kYJT8hub4="
+}
